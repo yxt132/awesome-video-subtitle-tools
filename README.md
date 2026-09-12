@@ -7,4 +7,6 @@ Makefilm.ai (https://makefilm.ai) is an AI-powered platform that transforms YouT
 
 Dynamic captioning, multi-language translation, video resizing, subtitle/text removal, real-time content summaries, YouTube video downloader, YouTube to MP3/MP4 conversion, 720P to 4K export options, SRT/ASS subtitle downloads,and translated captions.
 
-2. More tools to be added
+2. [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Open-source, local-first CLI/MCP video toolkit with animated subtitles, caption tracks, and an editable timeline for coding agents.
+
+3. More tools to be added
