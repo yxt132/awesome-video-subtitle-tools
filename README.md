@@ -7,4 +7,10 @@ Makefilm.ai (https://makefilm.ai) is an AI-powered platform that transforms YouT
 
 Dynamic captioning, multi-language translation, video resizing, subtitle/text removal, real-time content summaries, YouTube video downloader, YouTube to MP3/MP4 conversion, 720P to 4K export options, SRT/ASS subtitle downloads,and translated captions.
 
-2. More tools to be added
+2. ShortSmash
+
+ShortSmash (https://github.com/hydope/shortsmash) is an open-source prompt-to-published short-video pipeline: one prompt becomes a ready-to-post vertical video. It generates karaoke-style dynamic captions with neural voiceover and dubbing in 50 languages, ranks AI-composed moments by viral potential, and publishes to 10 platforms in one click.
+
+Karaoke captions, 50-language neural voiceover and dubbing, AI script and edit plan, AI-verified stock footage, one-click publish to YouTube/TikTok/Instagram/X.
+
+3. More tools to be added
